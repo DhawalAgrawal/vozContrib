@@ -12,27 +12,27 @@ text-align:center
 background-image:url(backhead1.jpg);
 height:820px;}
 #b2{
-background-image:url(background-1716728_1920.png);
+background:url(background-1716728_1920.png) no-repeat;
 height:640px;
 color:white;}
 #b3{
-background-image:url(black-felt.png);
+background:url(black-felt.png) no-repeat;
 height:600px;
 color:white;}
 #b4{
-background-image:url(289258.png);
+background:url(289258.png) no-repeat;
 height:720px;
 color:white;}
 #b5{
-background-image:url(bright-squares.png);
+background:url(bright-squares.png) no-repeat;
 height:742px;
 color:white;}
 #b6{
-background-image:url(background-1716728_1920.png);
+background:url(background-1716728_1920.png) no-repeat;
 height:843px;
 color:white;}
 #b8{
-background-image:url(mosaic-2790344.png);
+background:url(mosaic-2790344.png) no-repeat;
 height:750px;}
 #faqlink{
 background-color: #801ccc;
@@ -351,7 +351,7 @@ font-size: 18px;
 	padding:0px;
 	}
 	#b1{
-background-image:url(backhead2.jpg);
+background:url(backhead2.jpg) no-repeat;
 height:270px;}
 #b2{
 height:450px;
@@ -360,7 +360,7 @@ color:white;}
 height:450px;
 color:white;}
 #b4{
-background-image:url(289258.png);
+background:url(289258.png) no-repeat;
 height:450px;
 color:white;}
 #b5{
