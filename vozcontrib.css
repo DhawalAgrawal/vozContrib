@@ -3,6 +3,8 @@
 body, h1,h2,h3,p{
 margin:0;
 padding:0;}
+body{
+background:#801ccc;}
 .banner{
 width:100%;
 background:#801ccc;
@@ -16,7 +18,7 @@ background:url(background-1716728_1920.png) no-repeat;
 height:640px;
 color:white;}
 #b3{
-background:url(black-felt.png) no-repeat;
+background:url(black-felt.png);
 height:600px;
 color:white;}
 #b4{
@@ -24,7 +26,7 @@ background:url(289258.png) no-repeat;
 height:720px;
 color:white;}
 #b5{
-background:url(bright-squares.png) no-repeat;
+background:url(bright-squares.png);
 height:742px;
 color:white;}
 #b6{
