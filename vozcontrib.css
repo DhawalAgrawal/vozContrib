@@ -277,6 +277,7 @@ line-height: 40px;
     font-size: 50px;
     padding: 20px 0px 5px;
     width: 100%;
+	text-shadow: 2px 2px 4px #000000;
 }
 	
 #b2> h3{
@@ -301,6 +302,7 @@ line-height: 40px;
     font-size: 26px;
     padding: 5px 0px 5px;
 	    width: 90%;
+		text-shadow: 2px 2px 4px #000000;
 		background:none;
 }
 #b8 > h2{
@@ -327,6 +329,8 @@ line-height: 40px;
     font-size: 18px;
     width: 90%;
 		background:none;
+		text-shadow: 2px 2px 4px #000000;
+		font-weight:600;
 	}
 #b2> p{
     font-size: 18px;
